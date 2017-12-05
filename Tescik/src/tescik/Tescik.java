@@ -18,6 +18,7 @@ public class Tescik {
         // TODO code application logic here
         System.out.print("Help!!!!!");
         System.out.print("Autobuild");
+        System.out.println("działa czyt nie działa");
     }
     
 }
